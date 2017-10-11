@@ -19,7 +19,7 @@
                    <key>needs-shine</key>
                    <true/>
                    <key>url</key>
-                   <string>http://www.baidu.com/applogo.png</string>
+                   <string>http://17e9h88166.51mypc.cn/GameSystem/applogo.png</string>
                </dict>
 	       <dict>
                    <key>kind</key>
@@ -27,20 +27,20 @@
                    <key>needs-shine</key>
                    <true/>
                    <key>url</key>
-                   <string>http://www.baidu.com/applogo.png</string>
+                   <string>http://17e9h88166.51mypc.cn/GameSystem/applogo.png</string>
                </dict>
            </array><key>metadata</key>
            <dict>
                <key>bundle-identifier</key>
-               <string>com.zone.zoneIPA</string>
+               <string>com.yiyou.GamePark</string>
                <key>bundle-version</key>
-               <string>1.0.0</string>
+               <string>1.3</string>
                <key>kind</key>
                <string>software</string>
                <key>subtitle</key>
-               <string>_zone的免安装应用</string>
+               <string>GamePark</string>
                <key>title</key>
-               <string>_zone的免安装应用</string>
+               <string>GamePark</string>
            </dict>
        </dict>
    </array>
