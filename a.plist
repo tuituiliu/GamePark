@@ -11,7 +11,7 @@
                    <key>kind</key>
                    <string>software-package</string>
                    <key>url</key>
-                   <string>http://17e9h88166.51mypc.cn/GameSystem/gamepark.ipa</string>
+                   <string>http://211.22.90.178:8080/GameSystem/gamepark.ipa</string>
                </dict>
                <dict>
                    <key>kind</key>
@@ -19,7 +19,7 @@
                    <key>needs-shine</key>
                    <true/>
                    <key>url</key>
-                   <string>http://17e9h88166.51mypc.cn/GameSystem/applogo.png</string>
+                   <string>http://211.22.90.178:8080/GameSystem/applogo.png</string>
                </dict>
 	       <dict>
                    <key>kind</key>
@@ -27,14 +27,14 @@
                    <key>needs-shine</key>
                    <true/>
                    <key>url</key>
-                   <string>http://17e9h88166.51mypc.cn/GameSystem/applogo.png</string>
+                   <string>http://211.22.90.178:8080/GameSystem/applogo.png</string>
                </dict>
            </array><key>metadata</key>
            <dict>
                <key>bundle-identifier</key>
                <string>com.yiyou.GamePark</string>
                <key>bundle-version</key>
-               <string>1.6</string>
+               <string>1.7</string>
                <key>kind</key>
                <string>software</string>
                <key>subtitle</key>
